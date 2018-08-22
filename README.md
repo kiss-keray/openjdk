@@ -1,2 +1,2 @@
 # sync openjdk
-init
+init ssh test
